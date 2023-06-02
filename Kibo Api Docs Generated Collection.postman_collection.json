@@ -1,8 +1,8 @@
 {
 	"info": {
 		"_postman_id": "14ce2859-11b8-4de8-90b5-78fad6c4498d",
-		"name": "Kibo Api Docs Generated Collection",
-		"description": "Kibo Api Docs Generated Collection",
+		"name": "Kibo Dev Training Postman",
+		"description": "UCP Postman Collection fro Kibo Developer Training",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "19024494"
 	},

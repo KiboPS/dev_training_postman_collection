@@ -1,0 +1,44 @@
+{
+	"id": "0d8f4be6-bf84-4294-88c9-0da64b8567ad",
+	"name": "Dev Training Environment",
+	"values": [
+		{
+			"key": "appKey",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "appSecret",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "tenantId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "siteId",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "baseUrl",
+			"value": "https://txxxxxx.sandbox.mozu.com/api",
+			"enabled": true
+		},
+		{
+			"key": "accessToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "accessTokenExpiration",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-11-17T17:14:56.322Z",
+	"_postman_exported_using": "Postman/8.12.4"
+}
